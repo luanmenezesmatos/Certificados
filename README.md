@@ -1,6 +1,6 @@
 # Certificados
 
-> Aqui estão os certificados que obtive ao longo da minha jornada de estudos, em cursos EaD, em eventos, palestras e workshops; e em projetos pessoais.
+> Aqui estão os certificados que obtive ao longo da minha jornada de estudos, em cursos EaD, eventos, palestras e workshops; e em projetos pessoais.
 
 Clique no link de **"Certificado"** da tabela para expandir os certificados e ver mais detalhes.
 
