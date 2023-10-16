@@ -34,7 +34,7 @@ Certificados de cursos realizados na área de Computação/TI.
 
 | Órgão Emissor | Curso | Certificação | Carga Horária | Ano | Status | Avaliação Pessoal |
 | :-----------: | :---: | :----------: | :-----------: | :-: | :----: | :---------------: |
-| Solyd | ![][solydpybasico] &#013; [Python Básico](https://solyd.com.br/treinamentos/python-basico/) | [Certificado](https://solyd.com.br/verificar/NXLsP48GT9/) | 8h | 2023 | Concluído | ![][nota10]
+| Solyd | ![][solydpybasico] [Python Básico](https://solyd.com.br/treinamentos/python-basico/) | [Certificado](https://solyd.com.br/verificar/NXLsP48GT9/) | 8h | 2023 | Concluído | ![][nota10]
 
 ### Eletrônica/Robótica
 
