@@ -26,7 +26,7 @@ Certificados de cursos realizados ao longo da minha trajetória acadêmica.
 
 | Órgão Emissor |                                Curso                                |                                       Certificação                                       | Carga Horária | Ano  | Status | Avaliação Pessoal |
 | :-----------: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-----------: | :--: | :----: | :---------------: |
-| ![][senac] | [Técnico em Informática](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica) | [Certificado][1] | 1200h | 2022-2024 | Cursando | ![][nota10]
+| ![][senac] Senac Ribeirão Preto | [Técnico em Informática](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica) | [Certificado][1] | 1200h | 2022-2024 | Cursando | ![][nota10]
 
 ### Computação/TI
 
@@ -34,7 +34,7 @@ Certificados de cursos realizados na área de Computação/TI.
 
 | Órgão Emissor | Curso | Certificação | Carga Horária | Ano | Status | Avaliação Pessoal |
 | :-----------: | :---: | :----------: | :-----------: | :-: | :----: | :---------------: |
-| Solyd | ![][solydpybasico] [Python Básico](https://solyd.com.br/treinamentos/python-basico/) | [Certificado](https://solyd.com.br/verificar/NXLsP48GT9/) | 8h | 2023 | Concluído | ![][nota10]
+| ![][solyd] Solyd | ![][solydpybasico] [Python Básico](https://solyd.com.br/treinamentos/python-basico/) | [Certificado](https://solyd.com.br/verificar/NXLsP48GT9/) | 8h | 2023 | Concluído | ![][nota10]
 
 ### Eletrônica/Robótica
 
@@ -68,6 +68,7 @@ Certificados de cursos realizados em outras áreas.
 <!-- Imagens -->
 
 [senac]: /assets/senac_logo.png "Logo SENAC"
+[solyd]: /assets/logo-solyd.png "Logo Solyd"
 
 <!-- Idiomas -->
 [usa]: /assets/united-states.png "Estados Unidos"
