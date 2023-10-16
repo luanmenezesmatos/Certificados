@@ -24,38 +24,38 @@ As bandeiras dos países indicam o idioma do certificado. Os certificados em Ing
 
 Certificados de cursos realizados ao longo da minha trajetória acadêmica.
 
-| Órgão Emissor |                                Curso                                |                                       Certificação                                       | Carga Horária | Ano  | Status |
-| :-----------: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-----------: | :--: | :----: |
-| ![][senac] | [Técnico em Informática](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica) | [Certificado][1] | 1200h | 2022-2024 | Cursando |
+| Órgão Emissor |                                Curso                                |                                       Certificação                                       | Carga Horária | Ano  | Status | Avaliação Pessoal |
+| :-----------: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-----------: | :--: | :----: | :---------------: |
+| ![][senac] | [Técnico em Informática](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica) | [Certificado][1] | 1200h | 2022-2024 | Cursando | ![][nota10]
 
 ### Computação/TI
 
 Certificados de cursos realizados na área de Computação/TI.
 
-| Órgão Emissor | Curso | Certificação | Carga Horária | Ano | Status |
-| :-----------: | :---: | :----------: | :-----------: | :-: | :----: |
-| Solyd | ![][solydpybasico] [Python Básico](https://solyd.com.br/treinamentos/python-basico/) | [Certificado](https://solyd.com.br/verificar/NXLsP48GT9/) | 8h | 2023 | Concluído |
+| Órgão Emissor | Curso | Certificação | Carga Horária | Ano | Status | Avaliação Pessoal |
+| :-----------: | :---: | :----------: | :-----------: | :-: | :----: | :---------------: |
+| Solyd | ![][solydpybasico] [Python Básico](https://solyd.com.br/treinamentos/python-basico/) | [Certificado](https://solyd.com.br/verificar/NXLsP48GT9/) | 8h | 2023 | Concluído | ![][nota10]
 
 ### Eletrônica/Robótica
 
 Certificados de cursos realizados na área de Eletrônica/Robótica.
 
-| Órgão Emissor | Curso | Certificação | Carga Horária | Ano | Status |
-| :-----------: | :---: | :----------: | :-----------: | :-: | :----: |
+| Órgão Emissor | Curso | Certificação | Carga Horária | Ano | Status | Avaliação Pessoal |
+| :-----------: | :---: | :----------: | :-----------: | :-: | :----: | :---------------: |
 
 ### Palestras
 
 Certificados de palestras e workshops que participei.
 
-| Órgão Emissor | Curso | Certificação | Carga Horária | Ano | Status |
-| :-----------: | :---: | :----------: | :-----------: | :-: | :----: |
+| Órgão Emissor | Curso | Certificação | Carga Horária | Ano | Status | Avaliação Pessoal |
+| :-----------: | :---: | :----------: | :-----------: | :-: | :----: | :---------------: |
 
 ### Idiomas
 
 Certificados de cursos realizados na área de Idiomas.
 
-| Órgão Emissor | Curso | Certificação | Carga Horária | Ano | Status |
-| :-----------: | :---: | :----------: | :-----------: | :-: | :----: |
+| Órgão Emissor | Curso | Certificação | Carga Horária | Ano | Status | Avaliação Pessoal |
+| :-----------: | :---: | :----------: | :-----------: | :-: | :----: | :---------------: |
 
 ### Outros
 
@@ -77,6 +77,18 @@ Certificados de cursos realizados em outras áreas.
 
 <!-- Links/Certificados -->
 [1]: /Acadêmico/SENAC_Tec_Informática.pdf "Certificado SENAC - Técnico em Informática"
+
+<!-- Notas (estrelas) -->
+[nota1]: assets/n1.png "0.5"
+[nota2]: assets/n2.png "1.0"
+[nota3]: assets/n3.png "1.5"
+[nota4]: assets/n4.png "2.0"
+[nota5]: assets/n5.png "2.5"
+[nota6]: assets/n6.png "3.0"
+[nota7]: assets/n7.png "3.5"
+[nota8]: assets/n8.png "4.0"
+[nota9]: assets/n9.png "4.5"
+[nota10]: assets/n10.png "5.0"
 
 <!-- Informações sobre os módulos dos cursos --- Regex: (Módulos:)?\n?\d+ - (.*)\n? -->
 [info]: /assets/info.png "Os módulos aparecerão aqui."
